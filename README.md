@@ -1,3 +1,3 @@
 {\rtf1}
 Demo Project Readme
-This is simple project file
+THis is an udpated readme file which has been updated
